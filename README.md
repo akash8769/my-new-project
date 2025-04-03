@@ -1,4 +1,4 @@
-#Summary<br />
+# Summary<br />
 This project aims to develop an AI-driven smart drone system that revolutionizes agriculture and security surveillance. The drone will use computer vision, deep learning, and IoT to analyze crop health, detect diseases, monitor water levels, and estimate yields for farmers. Additionally, it will enhance security by detecting suspicious activities, monitoring borders, and tracking intrusions in real time. Equipped with high-resolution cameras, sensors, and AI algorithms, this drone system will provide real-time insights to farmers, security agencies, and businesses, reducing manual effort, improving efficiency, and boosting productivity.Building AI course project
 
 ##Background
